@@ -1,0 +1,51 @@
+body
+{
+        font-family:"Arial";
+        font-size:12pt;
+	background-color:#FFDAB9;
+}
+
+.mainpage
+{
+        position:absolute;
+        left:0;
+        right:0;
+        top:200px;
+        bottom:0px;
+        margin:0px;
+        border:0;
+        padding:25px;
+}
+
+h1
+{
+	font-size:28pt;
+	margin:0px;
+	font-weight:normal;
+}
+
+h2
+{
+	font-size:16pt;
+	margin:0px;
+	font-weight:normal;
+}
+
+.small
+{
+	font-size:10pt;
+	margin:0px;
+	font-weight:normal;
+}
+
+a
+{
+        color:green;
+        text-decoration:none;
+}
+
+a:hover
+{
+        text-decoration:underline overline;
+}
+
