@@ -52,8 +52,8 @@ a:hover
 
 <div class=navbar>
 	<ul>
-	<li><a class="navlink" href="index.php">Home</a></li>
-	<li><a class="navlink" href="video/video.php">Video</a></li>
+	<li><a class="navlink" href="../index.php">Home</a></li>
+	<li><a class="navlink" href="../video/video.php">Video</a></li>
 	<li class="right"><a class="navlink" href="about.asp">Login</a></li>
 	</ul>
 </div>
